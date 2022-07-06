@@ -1,0 +1,1 @@
+export const FIGMA_API_ENDPOINT = "https://api.figma.com/v1/files"
